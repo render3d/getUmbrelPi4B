@@ -1,5 +1,5 @@
 # getUmbrelPi4B
-Instructions for basic self hosting on a Pi 4, using Umbrel with a slim install of Ubuntu for SSH capability. Adapted from [this guide](https://thecryptogarage.com/umbrel-linux-ubuntu-node-build/) for compatibility on a Pi 4 Model B.
+Instructions for basic self hosting on a Pi 4, using Umbrel with a slim install of Ubuntu for SSH accessibility. Adapted from [this guide](https://thecryptogarage.com/umbrel-linux-ubuntu-node-build/) for compatibility on a Pi 4 Model B.
 
 ## Instructions
 
